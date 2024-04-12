@@ -67,20 +67,25 @@ p{
 
 #apatsag{
     float: right;
-   
 }
 
 #kapolna{
     float: left;
-    
 }
 
 #vonat{
     float: right;
-    
 }
 
 #kormenet{
     float: left;
+}
+
+a{
+    color: #e8d4a1; 
     
+}
+
+a:hover{
+    color: cyan;
 }
