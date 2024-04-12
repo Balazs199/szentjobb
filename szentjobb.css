@@ -66,21 +66,21 @@ p{
 }
 
 #apatsag{
-    text-align: right;
+    float: right;
    
 }
 
 #kapolna{
-    text-align: left;
+    float: left;
     
 }
 
 #vonat{
-    text-align: right;
+    float: right;
     
 }
 
 #kormenet{
-    text-align: left;
+    float: left;
     
 }
