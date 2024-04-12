@@ -3,7 +3,7 @@
     width: 950px;
     background-color: #571C0A;
     box-shadow: 5px 5px 5px #3F1407;
-    text-align: center;
+    text-align: justify;
     margin: 20px;
 }
 
@@ -63,4 +63,24 @@ body{
 p{
     text-align: justify;
     font-size: 16px;
+}
+
+#apatsag{
+    text-align: right;
+   
+}
+
+#kapolna{
+    text-align: left;
+    
+}
+
+#vonat{
+    text-align: right;
+    
+}
+
+#kormenet{
+    text-align: left;
+    
 }
